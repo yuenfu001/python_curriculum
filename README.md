@@ -1,4 +1,4 @@
-# Python Data Analysis Curriculum Web App
+# Python Data Analysis Curriculum
 
 Responsive HTML/CSS/JavaScript curriculum portal.
 
